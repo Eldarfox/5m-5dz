@@ -1,0 +1,26 @@
+.UserDat{
+    margin: auto;
+    width: 300px;
+    background-color: white;
+    padding: 24px;
+    box-shadow: 10px 5px 5px black;
+}
+.UserDat h1 {
+    margin-bottom: 35px;
+}
+.UserDat p {
+    font-size: 18px;
+    color: #ffa500;
+    margin: 5px 0;
+}
+.UserAll{
+    display: flex;
+    background-Color: gray;
+    height: 100vh
+}
+.UserAll button {
+    border-radius: 10px;
+    padding: 6px 10px;
+    cursor: inherit;
+    width: 60px;
+}
